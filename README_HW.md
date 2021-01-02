@@ -26,3 +26,11 @@ When brought back online:
   Created db.js
 
   Test functionality of app on line and offline
+
+  Created Mongo DB cluster
+
+  Created file in Heroku
+
+  Connected Mongo DB to Heroku
+
+  Deployed APP: https://vast-shelf-44980.herokuapp.com/
